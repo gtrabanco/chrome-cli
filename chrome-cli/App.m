@@ -19,7 +19,7 @@ static NSString * const kJsPrintSource = @"(function() { return document.getElem
 
 
 - (chromeApplication *)chrome {
-    chromeApplication *chrome = [SBApplication applicationWithBundleIdentifier:@"com.google.Chrome"];
+    chromeApplication *chrome = [SBApplication applicationWithBundleIdentifier:@"com.Brave.Browser"];
 
     if ([chrome isRunning]) {
         return chrome;

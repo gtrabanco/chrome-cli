@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B16644F0-F61D-4005-A931-8A949AA0C5FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>B16644F0-F61D-4005-A931-8A949AA0C5FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>chrome-cli-dmgduvfiqbubfcbqwnyjsgfkrjub</string>
+			<key>timeStartedRecording</key>
+			<real>637454162.36295497</real>
+			<key>timeStoppedRecording</key>
+			<real>637454164.33964503</real>
+			<key>title</key>
+			<string>Build target chrome-cli</string>
+			<key>uniqueIdentifier</key>
+			<string>B16644F0-F61D-4005-A931-8A949AA0C5FE</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

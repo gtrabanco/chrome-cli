@@ -1,3 +1,9 @@
+# This is a modification of the original work
+
+This version work with Brave Browser.
+
+There is a compiled version for x86 macOS on (build-brave-x86-BigSur/chrome-cli)[build-brave-x86-BigSur/chrome-cli]
+
 chrome-cli
 ==========
 
