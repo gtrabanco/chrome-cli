@@ -2,7 +2,7 @@
 
 This version work with Brave Browser.
 
-There is a compiled version for x86 macOS on (build-brave-x86-BigSur/chrome-cli)[build-brave-x86-BigSur/chrome-cli]
+* [chrome-cli-darwin-1.6.0-x64](https://github.com/gtrabanco/chrome-cli/blob/master/build-brave-x86-BigSur/chrome-cli?raw=true)
 
 chrome-cli
 ==========
